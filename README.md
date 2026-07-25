@@ -1,3 +1,7 @@
+![GitHub stars](https://img.shields.io/github/stars/Karan114-k/cpp-tutorial?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Karan114-k/cpp-tutorial?style=social)
+![License](https://img.shields.io/github/license/Karan114-k/cpp-tutorial)
+
 # 🚀 C++ Tutorial: Basics to Advanced
 
 Welcome to the **C++ Tutorial** repository! This repository is designed to help beginners and intermediate programmers learn **C++** step by step—from the fundamentals to advanced concepts.
