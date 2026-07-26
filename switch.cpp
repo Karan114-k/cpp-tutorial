@@ -1,5 +1,12 @@
 #include <iostream>
 using namespace std;
+// 📘 switch.cpp
+// This program demonstrates the use of the "switch" statement in C++.
+// A switch statement allows you to choose one block of code to execute
+// based on the value of an expression (usually an integer or character).
+// Example: Checking a number and printing the corresponding day of the week.
+// Purpose: To show how multi-way branching works in C++,
+//          making code cleaner than writing multiple if-else statements.
 int main()
 {
     int day;
