@@ -1,5 +1,17 @@
 #include <iostream>
 using namespace std;
+// 📘 singleInheritance.cpp
+// This program demonstrates the concept of Single Inheritance in C++.
+// Inheritance allows one class (child/derived class) to acquire the properties
+// and behaviors of another class (parent/base class).
+// Single Inheritance means there is only one base class and one derived class.
+// Benefits:
+//   - Promotes code reusability (derived class can reuse base class code).
+//   - Improves organization by modeling real-world relationships.
+// Example: A "Student" class derived from a "Person" class,
+//          where Student inherits attributes like name and age from Person.
+// Purpose: To show how to define a base class and extend it with a derived class
+//          using single inheritance in C++.
 class Person
 {
 public:
