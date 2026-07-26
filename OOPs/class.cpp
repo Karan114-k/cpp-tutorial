@@ -1,5 +1,16 @@
 #include <iostream>
 using namespace std;
+// 📘 class.cpp
+// This program demonstrates the concept of classes in C++.
+// A class is a user-defined data type that groups variables (data members)
+// and functions (member functions) together into a single unit.
+// Benefits of using classes:
+//   - Encapsulation: Keeps related data and behavior together.
+//   - Reusability: Classes can be reused to create multiple objects.
+//   - Abstraction: Hides implementation details and exposes only what is necessary.
+// Example: A "Student" class with data members like name and age,
+//          and member functions to display student details.
+// Purpose: To show how to define, create, and use classes in C++.
 class Car
 {
 
